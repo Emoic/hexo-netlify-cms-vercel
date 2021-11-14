@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Alan
 date: 2021-04-04T13:24:02.918Z
 ---
 
@@ -11,17 +11,6 @@ A templete to deploy a **Hexo** blog with **Netlify-CMS** on **Vercel**.
 
 ✔ Static web pages, no rendering time
 
-✔ Edit online, just as simple as using a dynamic CMS, supported by Netlify-CMS
-
-✔ No local environment required, you can edit your pages on any devices, everywhere
-
-✔ Zero coding
-
-✔ Preview is supported by Netlify-CMS and Netlify
-
-✔ Vercel CDN makes your pages to load quickly from anywhere in the world, including China Mainland
-
-✔ Easy to bind to your domain, and enable SSL encrypt, supported by Vercel
 
 # Additional improvements
 
